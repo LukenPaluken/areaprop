@@ -57,7 +57,7 @@ areaprop/
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/LukenPaluken/areaprop.git](https://github.com/LukenPaluken/areaprop.git)
+   git clone https://github.com/LukenPaluken/areaprop.git
    cd areaprop
    ```
 
